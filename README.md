@@ -1,3 +1,5 @@
+Hi there
+
 Arch Linux Chinese Community Repository
 ====
 
